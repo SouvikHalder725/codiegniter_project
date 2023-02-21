@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'ChanakyaUni';
+  src: url('ChanakyaUni.svg#ChanakyaUni') format('svg'),
+       url('ChanakyaUni.ttf') format('truetype'),
+       url('ChanakyaUni.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ChanakyaUniN';
+  src: url('ChanakyaUniN.eot');
+  src: url('ChanakyaUniN.eot?#iefix') format('embedded-opentype'),
+       url('ChanakyaUniN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

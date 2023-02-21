@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'ChanakyaUni-Italic';
+  src: url('ChanakyaUni-Italic.svg#ChanakyaUni-Italic') format('svg'),
+       url('ChanakyaUni-Italic.ttf') format('truetype'),
+       url('ChanakyaUni-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ChanakyaUniI';
+  src: url('ChanakyaUniI.eot');
+  src: url('ChanakyaUniI.eot?#iefix') format('embedded-opentype'),
+       url('ChanakyaUniI.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
